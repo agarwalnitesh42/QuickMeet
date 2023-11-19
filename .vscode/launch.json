@@ -1,0 +1,16 @@
+{
+  "configurations": [
+    {
+      "name": "Deploy Cloud Function",
+      "type": "cloudcode.cloudfunctions",
+      "request": "launch",
+      "functionName": "api-quickmeet",
+      "region": "asia-south1",
+      "gen": "GEN_1",
+      "revision": "5",
+      "entryPoint": "api",
+      "runtime": "nodejs16",
+      "testInput": ""
+    }
+  ]
+}
