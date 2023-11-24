@@ -1,3 +1,3 @@
 # Whatsapp Based Meeting Scheduler between contacts
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/agarwalnitesh42/QuickMeet/blob/main/logo.png)
